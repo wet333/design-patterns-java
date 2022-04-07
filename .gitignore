@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Java builds
+out
+
 # Log file
 *.log
 

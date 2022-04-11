@@ -1,4 +1,4 @@
-package com.wetagustin.factory.cakes;
+package com.wetagustin.factoryMethod.cakes;
 
 public interface Cake {
     String make();

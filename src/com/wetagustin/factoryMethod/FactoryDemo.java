@@ -1,6 +1,6 @@
-package com.wetagustin.factory;
+package com.wetagustin.factoryMethod;
 
-import com.wetagustin.factory.cakes.Cake;
+import com.wetagustin.factoryMethod.cakes.Cake;
 
 public class FactoryDemo {
     public static void main(String[] args) {
